@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The DevOps Runner"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = ""
+
+[[params.author.links]]
+github = "https://github.com/gurretl"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/lionel-gurret/"
+
+[[params.author.links]]
+youtube = "https://www.youtube.com/@thedevopsrunner"
+
+["params.author"]
+name = "Lionel Gurret"
+image = "lionel.jpg"
+headline = "Solution Engineer Cloud & AI Apps"
+bio = ""

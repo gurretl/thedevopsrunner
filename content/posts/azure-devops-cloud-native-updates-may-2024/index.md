@@ -1,0 +1,159 @@
+---
+title: "Azure DevOps & Cloud-Native Updates - May 2024"
+date: 2024-06-01
+draft: false
+description: "Get all last updates related to Kubernetes, DevOps and containers on Azure Cloud."
+tags: ['DevOps', 'Kubernetes', 'AKS']
+categories: ['Azure']
+showAuthor: true
+authors:
+  - "lionelgurret"
+---
+
+------------------------------------------------------------------------------------
+---
+# Azure DevOps & Cloud-Native Updates - May 2024
+
+## Introduction
+
+**Welcome to our Monthly Azure DevOps and Cloud Tech Updates Series!**
+
+Welcome to my monthly blog series where we bring you a concise roundup of significant Azure updates pertinent to DevOps, keeping you in the loop with the latest advancements.
+
+Let's check what's new!
+
+![](018_cover.jpg)
+
+## Updates
+### ACA
+- [Public preview: Aspire dashboard support in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-aspire-dashboard-on-azure-container-apps/)
+- [Public preview: Dynamic sessions in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-dynamic-sessions-in-azure-container-apps/)
+- [Public Preview: Set Java log levels in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-set-java-log-levels-in-azure-container-apps/)
+- [Public Preview: Monitor apps with Java metrics in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-monitor-apps-with-java-metrics-in-azure-container-apps/)
+- [Generally Available: Azure Functions can now run on Azure Container Apps](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-can-now-run-on-azure-container-apps/)
+- [Public Preview: NFS Azure Files volume mount support in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-nfs-azure-files-volume-mount-support-in-azure-container-apps/)
+### ACR
+- [Public preview: Azure Log Analytics enhances resilience with workspace replication across regions](https://azure.microsoft.com/en-us/updates/log-analytics-workspace-replication-public-preview/)
+### AI
+- [Public Preview Azure OpenAI Semantic Caching policy in Azure API Management](https://azure.microsoft.com/en-us/updates/public-preview-azure-openai-semantic-caching-policy-in-azure-api-management/)
+- [GA Azure OpenAI Emit Token Metric policy in Azure API Management](https://azure.microsoft.com/en-us/updates/ga-azure-openai-emit-token-metric-policy-in-azure-api-management/)
+- [GA Import Azure OpenAI enpoints as an APIs in Azure API Management](https://azure.microsoft.com/en-us/updates/ga-import-azure-openai-enpoints-as-an-apis-in-azure-api-management/)
+- [GA Azure OpenAI Token Limit Policy in Azure API Management](https://azure.microsoft.com/en-us/updates/ga-azure-openai-token-limit-policy-in-azure-api-management/)
+- [Azure Machine Learning  - General Availability for Build 2024](https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-build-2024/)
+- [Azure Machine Learning  - Public Preview for Build 2024](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-build-2024/)
+- [Introducing GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/updates/new-openai-model-on-azure/)
+### AKS
+- [Public Preview: Kubernetes Metadata and Logs Filtering in Azure Monitor - Container Insights](https://azure.microsoft.com/en-us/updates/kubernetesmetadataandlogsfilteringpublicpreview/)
+- [Public preview: Advanced Container Networking Services for Azure Kubernetes Services (AKS)](https://azure.microsoft.com/en-us/updates/advanced-container-networking-services/)
+- [Public Preview: Azure HDInsight on AKS is now available for preview in 6 new regions](https://azure.microsoft.com/en-us/updates/hdionaksnewregions2/)
+- [Public preview of the App Configuration Extension for AKS](https://azure.microsoft.com/en-us/updates/appconfig-aksextension/)
+- [Azure portal now offers in context observability for AKS object overviews](https://azure.microsoft.com/en-us/updates/azure-portal-now-offers-in-context-observability-for-aks-object-overviews/)
+- [Generally Available: Azure Kubernetes Fleet Manager workload orchestration](https://azure.microsoft.com/en-us/updates/generally-available-azure-kubernetes-fleet-manager-workload-orchestration/)
+- [Public preview: Kubernetes version 1.30 support in AKS](https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-version-130-support-in-aks/)
+- [Public preview: Azure Kubernetes Fleet Manager support for property-based scheduling and override](https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-fleet-manager-support-for-propertybased-scheduling-and-override/)
+- [Public preview: Deployment safeguards mutations in enforcement mode for AKS](https://azure.microsoft.com/en-us/updates/public-preview-deployment-safeguards-mutations-in-enforcement-mode-for-aks/)
+- [Generally Available: Automated deployments for AKS](https://azure.microsoft.com/en-us/updates/generally-available-automated-deployments-for-aks/)
+- [New version of AKS extension in Visual Studio Code now available](https://azure.microsoft.com/en-us/updates/new-version-of-aks-extension-in-visual-studio-code-now-available/)
+- [Public preview: Initialization taints in AKS](https://azure.microsoft.com/en-us/updates/public-preview-initialization-taints-in-aks/)
+- [GA: Support for disabling Windows outboundNAT in AKS](https://azure.microsoft.com/en-us/updates/ga-support-for-disabling-windows-outboundnat-in-aks/)
+### Compute
+- [General Availability: VM Hibernation for General Purpose VMs](https://azure.microsoft.com/en-us/updates/general-availability-vm-hibernation-general-purpose/)
+- [Public Preview: Migrate virtual machine backups using standard backup policy to enhanced backup policy](https://azure.microsoft.com/en-us/updates/migrate-vm-backup-std-enhanced-policy/)
+- [Public Preview: Azure Site Recovery support for Azure Trusted Launch VMs (Windows OS)](https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os/)
+- [Public preview: Standby pools for Virtual Machine Scale Sets with flexible orchestration](https://azure.microsoft.com/en-us/updates/public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration/)
+### Database
+- [Generally Available: 32TB storage support in Azure Database for MySQL Flexible Server Business Critical](https://azure.microsoft.com/en-us/updates/generally-available-32tb-storage-support-in-azure-database-for-mysql-flexible-server-business-critical/)
+- [Public Preview: Microsoft Copilot now offers supportability in Azure Database for MySQL](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-copilot/)
+- [Generally Available: Accelerated logs in Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/generally-available-accelerated-logs-in-azure-database-for-mysql-flexible-server/)
+- [General availability: Azure SQL updates for late-May 2024](https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-latemay-2024/)
+- [Public Preview - On-demand backup and Export in Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-ondemand-backup-and-export-in-azure-database-for-mysql-flexible-server/)
+- [Public preview - Major version upgrade support for PostgreSQL 16](https://azure.microsoft.com/en-us/updates/public-preview-major-version-upgrade-support-for-postgresql-16/)
+- [Public Preview: Azure SQL updates for late-May 2024](https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latemay-2024/)
+- [Public Preview: New Azure SQL Database skills introduced to Microsoft Copilot in Azure](https://azure.microsoft.com/en-us/updates/public-preview-new-azure-sql-database-skills-introduced-to-microsoft-copilot-in-azure/)
+- [Public Preview: In-database embeddings in Azure Database for PostgreSQL - Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-indatabase-embeddings-in-azure-database-for-postgresql-flexible-server/)
+- [Public Preview: Index recommendations in Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-index-recommendations-in-azure-database-for-postgresql-flexible-server/)
+- [General Availability: Azure AI extension in Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/updates/general-availability-azure-ai-extension-in-azure-database-for-postgresql/)
+- [General Availability: Azure Cosmos DB Vercel integration](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-vercel-integration/)
+- [Public Preview: DiskANN vector indexing and search in Azure Cosmos DB NoSQL](https://azure.microsoft.com/en-us/updates/public-preview-diskann-vector-indexing-and-search-in-azure-cosmos-db-nosql/)
+- [General availability: Azure Cosmos DB Go SDK](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-go-sdk/)
+- [Public Preview: vCore-based Azure Cosmos DB for MongoDB cross-region disaster recovery (DR)](https://azure.microsoft.com/en-us/updates/public-preview-vcorebased-azure-cosmos-db-for-mongodb-crossregion-disaster-recovery-dr/)
+- [General availability: Azure Cosmos DB for NoSQL integrations in LangChain and Semantic Kernel](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-nosql-integrations-in-langchain-and-semantic-kernel/)
+- [General availability: Computed properties in Azure Cosmos DB for NoSQL](https://azure.microsoft.com/en-us/updates/general-availability-computed-properties-in-azure-cosmos-db-for-nosql/)
+- [General availability: Latest version of the TimeScaleDB extension on Azure Database for PostgreSQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-latest-version-of-the-timescaledb-extension-on-azure-database-for-postgresql-flexible-server/)
+- [General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-5/)
+- [General Availability: Azure Cosmos DB Data Explorer keyboard shortcuts](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-data-explorer-keyboard-shortcuts/)
+- [General availability: Azure Cosmos DB API for MongoDB RU supports version 5.0 and 6.0](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-api-for-mongodb-ru-supports-version-50-and-60/)
+### Functions
+- [Public preview: Azure Functions support for HTTP streams in Python](https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-python/)
+- [Generally Available: Azure Functions Support for HTTP Streams in Node.js](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-http-streams-in-nodejs/)
+- [Generally Available: Azure Functions extension for Dapr](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-for-dapr/)
+- [Public Preview: Azure Functions brings new flexibility with Azure Functions Flex Consumption](https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-brings-new-flexibility-with-azure-functions-flex-consumption/)
+- [Public preview: Get started with Azure Functions using Visual Studio Code for the Web](https://azure.microsoft.com/en-us/updates/public-preview-get-started-with-azure-functions-using-visual-studio-code-for-the-web/)
+- [Public preview: Azure Functions extension for OpenAI](https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-extension-for-openai/)
+- [Public preview: SDK type bindings for Azure Blog Storage with Azure Functions in Python](https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings-for-azure-blog-storage-with-azure-functions-in-python/)
+- [General availability: Azure Cache for Redis triggers and bindings for Azure Functions](https://azure.microsoft.com/en-us/updates/general-availability-azure-cache-for-redis-triggers-and-bindings-for-azure-functions/)
+### Monitoring
+- [Monitor effectively using Azure Monitor for Azure Site Recovery](https://azure.microsoft.com/en-us/updates/introducing-reporting-capabilities-for-azure-site-recovery/)
+- [Public preview: Managed Prometheus visualizations for Azure Monitor container insights](https://azure.microsoft.com/en-us/updates/public-preview-managed-prometheus-visualizations-for-azure-monitor-container-insights/)
+- [Public Preview Azure Logic Apps Monitoring Dashboard for Workflow Monitoring, Troubleshooting, and Resubmissions](https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-monitoring-dashboard-for-workflow-monitoring-troubleshooting-and-resubmissions/)
+### Networking
+- [Azure Virtual Network Manager’s virtual network verifier is now in public preview](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview/)
+- [General availability: ExpressRoute Seamless Gateway Migration](https://azure.microsoft.com/en-us/updates/expressroute-seamless-gateway-migration/)
+- [Public preview: Azure Application Gateway v2 Basic SKU](https://azure.microsoft.com/en-us/updates/public-preview-azure-application-gateway-v2-basic-sku/)
+- [Azure Virtual Network Manager user-defined route (UDR) management now in public preview](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-userdefined-route-udr-management-now-in-public-preview/)
+### Storage
+- [Azure Ultra Disk Storage is now available in Italy North](https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-italy-north/)
+- [Public Preview: Azure Storage Actions is now available in 14 more regions](https://azure.microsoft.com/en-us/updates/public-preview-azure-storage-actions-is-now-available-in-14-more-regions/)
+### Others
+- [Public Preview: Analyze data using Log Analytics Simple mode](https://azure.microsoft.com/en-us/updates/public-preview-analyze-data-using-log-analytics-simple-mode/)
+- [Feature Update: Azure Action Groups](https://azure.microsoft.com/en-us/updates/action-groups-email-resource-manager-role/)
+- [Public preview: Azure Load Balancer now supports Admin State](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-now-supports-admin-state/)
+- [Public preview: Azure NetApp Files support for Active Directory connection per NetApp account](https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account/)
+- [Public preview: Azure Bastion Premium](https://azure.microsoft.com/en-us/updates/public-preview-azure-bastion-premium/)
+- [General Availability: Azure NetApp Files backup](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-backup/)
+- [Public preview: Azure Load Balancer health event logs](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-health-event-logs/)
+- [General availability: Azure NetApp Files support for large volumes up to 500TiB in size](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-large-volumes-up-to-500tib-in-size/)
+- [General availability: Activity log alerts can now run in EU Data Boundary](https://azure.microsoft.com/en-us/updates/general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary/)
+- [General Availability: Azure API Center Extension for VS Code](https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center-extension-for-vs-code/)
+- [Visual Studio Code extension for sAzure Web PubSub now in preview](https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-for-sazure-web-pubsub-now-in-preview/)
+- [Public preview: Azure NetApp Files application volume group for Oracle](https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-application-volume-group-for-oracle/)
+- [Announcing General Availability of Graph Semantics in Kusto](https://azure.microsoft.com/en-us/updates/kusto-graph-ga/)
+- [Azure Firewall: New Regions Availability](https://azure.microsoft.com/en-us/updates/azure-firewall-new-regions-availability/)
+- [Expanding extensibility model to Pulumi in Azure Deployment Environments](https://azure.microsoft.com/en-us/updates/public-preview-support-for-pulumi-in-azure-deployment-environments/)
+- [Public preview: Azure Firewall integration in Microsoft Copilot for Security](https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-integration-in-microsoft-copilot-for-security/)
+- [Public preview:  Azure Web Application Firewall (WAF) integration in Microsoft Copilot for Security](https://azure.microsoft.com/en-us/updates/public-preview-azure-web-application-firewall-waf-integration-in-microsoft-copilot-for-security/)
+- [New Azure Event Grid capabilities support IoT solutions, event sources](https://azure.microsoft.com/en-us/updates/new-azure-event-grid-capabilities-support-iot-solutions-event-sources/)
+- [Microsoft Dev Box introduces new ready-to-code and enterprise management capabilities](https://azure.microsoft.com/en-us/updates/microsoft-dev-box-introduces-new-readytocode-and-enterprise-management-capabilities/)
+- [GA Circuit Breaker in Azure API Management](https://azure.microsoft.com/en-us/updates/ga-circuit-breaker-in-azure-api-management/)
+- [GA OData API type in Azure API Management](https://azure.microsoft.com/en-us/updates/ga-odata-api-type-in-azure-api-management/)
+- [GA Load Balancer in Azure API Management](https://azure.microsoft.com/en-us/updates/ga-load-balancer-in-azure-api-management/)
+- [GA Support for gRPC APIs in Azure API Management Self-hosted Gateway](https://azure.microsoft.com/en-us/updates/ga-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway/)
+- [GA Improved Onboarding Experience on VS Code for Azure Logic Apps Standard](https://azure.microsoft.com/en-us/updates/ga-improved-onboarding-experience-on-vs-code-for-azure-logic-apps-standard/)
+- [Public Preview Azure Logic Apps Standard .NET 8 Custom Code Support](https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-standard-net-8-custom-code-support/)
+- [Public Preview Azure Logic Apps Standard Support for Zero Downtime deployment scenarios](https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-standard-support-for-zero-downtime-deployment-scenarios/)
+- [Public Preview Azure Logic Apps Standard Deployment Scripting Tools in VS Code](https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-standard-deployment-scripting-tools-in-vs-code/)
+- [GA EDI capabilities in Azure Logic Apps Standard](https://azure.microsoft.com/en-us/updates/ga-edi-capabilities-in-azure-logic-apps-standard/)
+- [Public Preview Azure Service Bus Enhancements](https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-enhancements/)
+- [Public Preview Azure Integration Account Enhancements](https://azure.microsoft.com/en-us/updates/public-preview-azure-integration-account-enhancements/)
+- [Generally Available: KEDA in the Azure Portal](https://azure.microsoft.com/en-us/updates/public-preview-keda-scaling-in-the-azure-portal/)
+- [Draft now supports best practices via deployment safeguards](https://azure.microsoft.com/en-us/updates/draft-now-supports-best-practices-via-deployment-safeguards/)
+- [Public preview: Change from serverless to provisioned capacity mode](https://azure.microsoft.com/en-us/updates/public-preview-change-from-serverless-to-provisioned-capacity-mode/)
+- [Public preview: Azure Cache for Redis Enterprise now offers a 1GB E1 SKU](https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-enterprise-now-offers-a-1gb-e1-sku/)
+- [Experimentation capabilities for Azure App Configuration now in public preview](https://azure.microsoft.com/en-us/updates/experimentation-capabilities-for-azure-app-configuration-now-in-public-preview/)
+- [General availability: Azure Cache for Redis now supports Microsoft Entra ID authentication and authorization](https://azure.microsoft.com/en-us/updates/general-availability-azure-cache-for-redis-now-supports-microsoft-entra-id-authentication-and-authorization/)
+- [General Availability: Data API builder](https://azure.microsoft.com/en-us/updates/general-availability-data-api-builder/)
+- [Public preview: Sensitive data protection for Azure Front Door Web Application Firewall](https://azure.microsoft.com/en-us/updates/public-preview-sensitive-data-protection-for-azure-front-door-web-application-firewall/)
+- [Azure Front Door server variable enhancement generally available](https://azure.microsoft.com/en-us/updates/azure-front-door-server-variable-enhancement-general-available/)
+- [General availability: Azure Bastion Developer SKU](https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-developer-sku/)
+- [General availability: Customer-managed keys on existing accounts](https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-on-existing-accounts/)
+- [Azure Front Door log scrubbing of sensitive data is generally available](https://azure.microsoft.com/en-us/updates/azure-front-door-log-scrubbing-of-sensitive-data-is-general-available/)
+- [General Availability - Azure API Center](https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center/)
+- [Action needed: Update Azure Autoscale Notifications to using additional email addresses for notifications](https://azure.microsoft.com/en-us/updates/action-needed-update-azure-autoscale-notifications-to-using-additional-email-addresses-for-notifications/)
+- [Azure Governance Update - Management Groups](https://azure.microsoft.com/en-us/updates/azure-governance-update-management-group-update/)
+- [Generally available: Azure IoT Edge v1.5.0 (LTS) release](https://azure.microsoft.com/en-us/updates/azure-iot-edge-lts-release/)
+
+## Sources
+https://azure.microsoft.com/
+
+[Microsoft Dev Blog](devblogs.microsoft.com)
+[Azure Website](https://azure.microsoft.com?wt.mc_id=MVP_357193)

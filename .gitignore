@@ -1,0 +1,19 @@
+# Hugo build output
+public/
+resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Hugo lock
+.hugo_build.lock
+
+# Node (blowfish-tools)
+node_modules/
